@@ -1,4 +1,7 @@
-﻿<Properties StartupConfiguration="{81BD0130-F6FB-455A-BFDF-02BB65A5D501}|Default">
+﻿<Properties StartupConfiguration="{C3FD60F7-3E0C-4900-86DB-DBA050FCD8C5}|Default">
+  <MonoDevelop.Ide.ItemProperties.CoffeeStore.IdentityService PreferredExecutionTarget="/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CoffeeStore.CatalogService FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CoffeeStore.AdminService FirstBuild="True" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CoffeeStore FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CoffeeStore.OrderService FirstBuild="True" />
 </Properties>

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GQtDVzqFM24GtsjO/1L6R5JBRmCT+QD0FNYmgdYdXzTmyqHGautOUlu5AAhZEat++8Wp5VsgQp4mAIRoHqzauw==",
+  "success": true,
+  "projectFilePath": "/Users/viktordraganov/code/CoffeeStore/server/CoffeeStore/CoffeeStore.IdentityService/CoffeeStore.IdentityService.csproj",
+  "expectedPackageFiles": [
+    "/Users/viktordraganov/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/viktordraganov/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/viktordraganov/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/viktordraganov/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/viktordraganov/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/viktordraganov/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
